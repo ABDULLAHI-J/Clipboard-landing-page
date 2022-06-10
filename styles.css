@@ -37,6 +37,10 @@
   margin-top: 4rem;
 }
 
+.btns {
+  margin-top: 3rem;
+}
+
 /* content and keep track max widths */
 .content,
 .keep-track {
@@ -71,7 +75,7 @@ button {
 
 .ios {
   background-color: hsl(171, 66%, 44%);
-  margin-right: 0.4rem;
+  margin-right: 3rem;
   box-shadow: 0 6px 4px -4px hsl(171, 66%, 44%);
 }
 
